@@ -72,7 +72,7 @@ body {
 .site-nav a {
     font-size: 14px;
     font-weight: 500;
-    line-height: 1.1;
+    line-height: 1.2;
     text-decoration: none;
     color: var(--text-color);
 }
@@ -99,7 +99,7 @@ body {
     font-size: 14px;
     font-weight: 500;
     font-style: normal;
-    line-height: 1.1;
+    line-height: 1.2;
     text-decoration: none;
     color: #757575;
     cursor: pointer;
