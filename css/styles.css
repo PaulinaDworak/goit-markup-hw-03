@@ -207,13 +207,16 @@ body {
     flex-direction: row;
     column-gap: 30px;
     justify-content: center;
+    padding-bottom: 94px;
+    margin-bottom: -94px;
 }
-.section h2 {
+.our-team {
     font-weight: 700;
     font-size: 36px;
     text-align: center;
     line-height: 1.2;
     margin-bottom: 50px;
+    padding-top: 94px;
 }
 .name-card {
     padding-top: 30px;
